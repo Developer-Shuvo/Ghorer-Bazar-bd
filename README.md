@@ -1,2 +1,3 @@
-# This is Web layout 
+# This is a simple Web layout 
 # Design from ghorer bazar bd website 
+# E Commerce website 
